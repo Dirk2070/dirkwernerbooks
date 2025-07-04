@@ -1,0 +1,85 @@
+Autorenwebsite für Dirk Werner (DE & EN)
+Aufgabe:
+Erstelle eine zweisprachige (Deutsch/Englisch) Autorenwebsite für Dipl.-Psych. Dirk Werner, die folgende Anforderungen auf höchstem Niveau erfüllt:
+
+Inhalt & Struktur
+1. Startseite / Home
+Begrüßung & kurze Vorstellung
+Sprachen: Umschaltbar DE/EN
+2. Alle Bücher
+Vollständige Übersicht aller Werke (eBooks, Print, Audiobooks)
+
+Jedes Buch nur mit einzigartigem Cover (keine Dopplungen)
+
+Titel, Untertitel, Genre, Kurzbeschreibung, Veröffentlichungsjahr, Buchformat(e) und direkte Links zu allen relevanten Shops (Books2Read, Amazon.de, Amazon.com, Apple Books/Hörbücher)
+
+Typische ASINs sind:
+B0CW1G3XR6, B0DNBSQXXL, B0DY7K1148, B0DV56DC5P, B0DT7F2VVS, B0DS9Y8W5V, B0DHV3LPL1, B0DJL6VXDJ, B0DJY7S893, B0DHG8WCDK, B0DHV6WTZQ, B0DJNS7TVB, B0DFVQP4JT, B0DFD4GVKM, B0DDJVX6GQ, B0DCTZF166, B0DC28N8WZ, B0CW1JS3B5, B0D9J2X8D3, B0D9762V4T, B0D429HGV1, B0D4HXWHN8, B0D3BMXBN1, B0CQSM6WGQ, B0CNPY5PJH, B0C9ZYHD9T, B0D7Z9D9KG, B0D7Q4BF74
+
+Alle veröffentlichten Audiobooks mit Cover, Titel, Jahr und Direktlink:
+Apple Books Audio Dirk Werner
+
+Shop-Links für jedes Buch:
+
+www.books2read.com/Dirk-Werner-Author
+Amazon.de Dirk Werner
+Amazon.com Dirk Werner
+3. Biografie & Bild
+Autorenfoto einbinden (Platzhalter, falls kein Bild vorliegt)
+Biografie (zweisprachig):
+Deutsch:
+Dipl.-Psych. Dirk Werner ist seit 26 Jahren psychotherapeutisch tätig. Als Psychologischer Psychotherapeut arbeitet er hauptsächlich in eigener ambulanter psychotherapeutischer Praxis.
+Englisch:
+Dipl.-Psych. Dirk Werner has been working as a certified clinical psychotherapist with a diploma in psychology for 26 years. As a psychological psychotherapist, he mainly works in his outpatient psychotherapeutic practice.
+4. Genres & Projekte
+Tabellarische Darstellung (zweisprachig) der Genres, inkl. Beschreibung & Beispieltiteln/Projekten.
+(siehe Vorlage unten)
+5. Social Media & Kontakt
+Alle Social Media Profile mit passenden Icons (LinkedIn, Xing, TikTok, Instagram, YouTube, X/Twitter, Homepage, Linktree etc.)
+www.dirk-werner-psychotherapie.de
+www.linktr.ee/Dirk_Werner
+www.books2read.com/Dirk-Werner-Author
+https://www.xing.com/profile/Dirk_Werner12
+https://de.linkedin.com/in/dirk-werner-657a81a8
+www.linkedin.com/in/dirk-werner-657a81a8
+https://www.tiktok.com/@innergrowthguide5?is_from_webapp=1&sender_device=pc
+https://instagram.com/dirk.werner.d.w.2070?igshid=MzNlNGNkZWQ4Mg==
+https://www.youtube.com/@LuxMesopotamiae-kw6rw
+https://www.youtube.com/@dirkwerner777
+https://twitter.com/LuxMesopotamiae?s=09
+https://x.com/dirk_werner1?t=hy1OJHS9pjFHVFCFMNC7bA&s=09
+6. Genres (Beispielstruktur, DE/EN):
+Genre	DE Beschreibung	EN Description	Beispiele / Projekte
+🧠 Psychologie & Psychotherapie	Wissenschaftlich fundierte Ratgeber mit praxisnaher Tiefe – von Selbsthilfe bis Fachliteratur für Profis.	Science-based guides with practical depth – from self-help to professional literature.	Emotionale Intelligenz und Leadership, Psychotherapie: Mittel und Methoden, Self-Love Over Perfection, Suizidprävention: Basics
+🕵️ Krimi & Psychothriller	Spannende Fälle mit psychologischer Raffinesse. Hauptfigur: Dr. Lukas Seelmann, ein brillanter Ermittler mit Tiefgang.	Gripping cases with psychological finesse. Main character: Dr. Lukas Seelmann, a brilliant investigator.	Verhängnisvolle Trance, Tödliches Echo, Das Vermächtnis der Logen (also in English)
+❤️ Beziehung & Lebenshilfe	Psychologische Ratgeber mit Herz – alltagsnah und reflektiert.	Heartfelt, practical psychological guides for everyday life.	101 goldene Regeln für eine harmonische Beziehung, Der Herzschmerz-Ratgeber, Souverän durch ihre Tests
+📚 Belletristik mit psychologischem Kern	Romane, die unterhalten und zum Nachdenken anregen – oft mit spirituellen oder gesellschaftlichen Tiefenstrukturen.	Novels that entertain and provoke thought – often with spiritual or social depth.	Seminar der Herzen, American Shadows, Nanogenesis, The Lyra Code, The Simulation Chronicles
+🔍 New Adult Mystery (geplant)	Junge Protagonistin auf der Suche nach Wahrheit und Identität – psychologisch spannend mit romantischen Spannungen.	Young protagonist searching for truth and identity – psychologically thrilling with romantic tension.	Verlorene Erinnerungen – Geheime Uni-Experimente, Gedächtnismanipulation, Vertrauensfragen
+🧭 Philosophisch-literarischer Essay	Poetisch-existenzielle Reflexionen über Menschlichkeit und KI – zwischen Wissenschaft und Seele.	Poetic-existential reflections on humanity and AI – between science and soul.	Die Würde der Psyche – Therapie im Zeitalter der Künstlichen Intelligenz
+🧘‍♂️ Spirituelle & symbolische Texte	Archetypen, Schattenarbeit, mystische Psychologie – mit moderner KI-Analyse & visuellem Storytelling.	Archetypes, shadow work, mystical psychology – combined with AI analysis & visual storytelling.	Shadow Integrator (App), InsightVUE, Palmblatt-Videos, Symbolanalysen
+Exzellente Hinweise für das Sprachmodell
+Keine doppelten Buchcover anzeigen.
+Füge für jedes Buch alle verfügbaren Formate und Shops an.
+Responsive, nutzerfreundliche Struktur mit klarer Navigation.
+Social Media Icons: Verwende offizielle Logos, klar erkennbar, jeweils verlinkt.
+Biografie und Genre-Texte: Korrektes, professionelles Deutsch und Englisch.
+Buchcover: Verwende ASINs zur Generierung der Bild-URLs, falls möglich, sonst Platzhalter.
+Audiobooks: Eigener Abschnitt mit Direktlink zu Apple Books und Coveranzeige.
+Visuelle Hierarchie und Übersichtlichkeit: Fokus auf Lesbarkeit und Nutzerführung.
+SEO-optimiert (Meta-Tags, Titel, Alt-Texte für Bilder in beiden Sprachen).
+Barrierefreiheit beachten (Alt-Texte, klare Struktur).
+Stelle sicher, dass das Endergebnis eine vollwertige Autorenwebseite ist, die dem Anspruch eines erfahrenen Psychiaters und Vielautors gerecht wird – modern, hochwertig, informativ, und vollständig zweisprachig.
+
+ENGLISH SUMMARY (for the Model):
+Create a bilingual (German & English) author website for Dipl.-Psych. Dirk Werner that features:
+
+Complete catalogue of all books (eBook, print, audiobook), unique cover per book, all shops linked, all formats, no cover duplicates
+Full, professional bilingual biography with photo
+Tabular, bilingual genre overview with descriptions and examples
+All social media/contact links as clickable icons
+Dedicated audiobook section with direct Apple Books links
+Responsive, accessible, SEO-optimized, visually professional design
+Meta-data, alt texts, and accessibility features
+All information up-to-date and presented for a modern, expert author website
+Ziel:
+Maximale Informationstiefe, herausragende Präsentation, vollständige Mehrsprachigkeit, perfekte User Experience.
