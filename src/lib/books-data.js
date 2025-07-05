@@ -4,6 +4,7 @@ export const booksData = [
   // Psychology & Self-Help Books
   {
     id: 'dankbarkeit-im-alltag',
+    asin: 'B0CW1G3XR6',
     title: {
       de: 'Dankbarkeit im Alltag: Ein interaktives Tagebuch für mehr Zufriedenheit und Lebensfreude',
       en: 'Gratitude in Everyday Life: An Interactive Journal for More Satisfaction and Joy'
@@ -15,7 +16,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'dankbarkeit-im-alltag.jpg',
+    cover: 'B0CW1G3XR6.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0CW1G3XR6',
@@ -25,6 +26,7 @@ export const booksData = [
   
   {
     id: 'battle-within',
+    asin: 'B0DNBSQXXL',
     title: {
       de: 'The Battle Within: A Guide to Overcoming Inner Struggles',
       en: 'The Battle Within: A Guide to Overcoming Inner Struggles'
@@ -36,7 +38,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'battle-within.jpg',
+    cover: 'B0DNBSQXXL.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DNBSQXXL',
@@ -46,6 +48,7 @@ export const booksData = [
   
   {
     id: 'suizidpraevention-basics',
+    asin: 'B0DY7K1148',
     title: {
       de: 'Suizidprävention: Basics',
       en: 'Suicide Prevention: Basics'
@@ -57,7 +60,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'placeholder-psychology.jpg',
+    cover: 'B0DY7K1148.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DY7K1148',
@@ -67,6 +70,7 @@ export const booksData = [
   
   {
     id: 'goldene-regeln-beziehung',
+    asin: 'B0DV56DC5P',
     title: {
       de: '101 goldene Regeln für eine harmonische Beziehung',
       en: '101 Golden Rules for a Harmonious Relationship'
@@ -78,7 +82,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'placeholder-relationship.jpg',
+    cover: 'B0DV56DC5P.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DV56DC5P',
@@ -88,6 +92,7 @@ export const booksData = [
   
   {
     id: 'selbstsabotage-ueberwinden',
+    asin: 'B0DT7F2VVS',
     title: {
       de: 'Selbstsabotage überwinden: Entfessle dein wahres Potenzial',
       en: 'Overcoming Self-Sabotage: Unleash Your True Potential'
@@ -99,7 +104,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'selbstsabotage-ueberwinden.jpg',
+    cover: 'B0DT7F2VVS.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DT7F2VVS',
@@ -109,6 +114,7 @@ export const booksData = [
   
   {
     id: 'gemeinsam-den-weg-gehen',
+    asin: 'B0DS9Y8W5V',
     title: {
       de: 'Gemeinsam den Weg gehen: Empathie im Umgang mit Suizidgedanken',
       en: 'Walking the Path Together: Empathy in Dealing with Suicidal Thoughts'
@@ -120,7 +126,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'placeholder-psychology.jpg',
+    cover: 'B0DS9Y8W5V.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DS9Y8W5V',
@@ -130,6 +136,7 @@ export const booksData = [
   
   {
     id: 'psychotherapie-mittel-methoden',
+    asin: 'B0DHV3LPL1',
     title: {
       de: 'Psychotherapie: Mittel und Methoden',
       en: 'Psychotherapy: Methods and Tools'
@@ -141,7 +148,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'placeholder-professional.jpg',
+    cover: 'B0DHV3LPL1.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DHV3LPL1',
@@ -151,6 +158,7 @@ export const booksData = [
   
   {
     id: 'self-love-over-perfection',
+    asin: 'B0DJL6VXDJ',
     title: {
       de: 'Self-Love Over Perfection: A Guide to Overcoming Female Narcissism',
       en: 'Self-Love Over Perfection: A Guide to Overcoming Female Narcissism'
@@ -162,7 +170,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'placeholder-psychology.jpg',
+    cover: 'B0DJL6VXDJ.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DJL6VXDJ',
@@ -172,6 +180,7 @@ export const booksData = [
   
   {
     id: 'how-to-recognize-cults',
+    asin: 'B0DJY7S893',
     title: {
       de: 'How to Recognize Cults: A Guide to Protecting Yourself from Manipulation and Control',
       en: 'How to Recognize Cults: A Guide to Protecting Yourself from Manipulation and Control'
@@ -183,7 +192,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'how-to-recognize-cults.jpg',
+    cover: 'B0DJY7S893.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DJY7S893',
@@ -194,6 +203,7 @@ export const booksData = [
   // Dr. Seelmann Mystery Series - German
   {
     id: 'verhaengnisvolle-trance',
+    asin: 'B0DHG8WCDK',
     title: {
       de: 'Verhängnisvolle Trance: Dr. Seelmanns erster Fall',
       en: 'Fatal Trance: Dr. Seelmann\'s First Case'
@@ -205,7 +215,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print', 'audiobook'],
-    cover: 'verhaengnisvolle-trance.jpg',
+    cover: 'B0DHG8WCDK.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DHG8WCDK',
@@ -216,6 +226,7 @@ export const booksData = [
   
   {
     id: 'toedliches-echo',
+    asin: 'B0DHV6WTZQ',
     title: {
       de: 'Tödliches Echo: Dr. Seelmanns zweiter Fall',
       en: 'Deadly Echo: Dr. Seelmann\'s Second Case'
@@ -227,7 +238,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print', 'audiobook'],
-    cover: 'toedliches-echo.jpg',
+    cover: 'B0DHV6WTZQ.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DHV6WTZQ',
@@ -238,6 +249,7 @@ export const booksData = [
   
   {
     id: 'vermaechtnis-der-logen',
+    asin: 'B0DJNS7TVB',
     title: {
       de: 'Das Vermächtnis der Logen: Dr. Seelmanns dritter Fall',
       en: 'The Legacy of the Lodges: Dr. Seelmann\'s Third Case'
@@ -249,7 +261,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print', 'audiobook'],
-    cover: 'vermaechtnis-der-logen.jpg',
+    cover: 'B0DJNS7TVB.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DJNS7TVB',
@@ -261,6 +273,7 @@ export const booksData = [
   // Dr. Seelmann Mystery Series - English
   {
     id: 'fatal-trance-en',
+    asin: 'B0DFVQP4JT',
     title: {
       de: 'Fatal Trance: Dr. Seelmann\'s First Case (English)',
       en: 'Fatal Trance: Dr. Seelmann\'s First Case'
@@ -272,7 +285,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print', 'audiobook'],
-    cover: 'placeholder-mystery.jpg',
+    cover: 'B0DFVQP4JT.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DFVQP4JT',
@@ -283,6 +296,7 @@ export const booksData = [
   
   {
     id: 'deadly-echo-en',
+    asin: 'B0DFD4GVKM',
     title: {
       de: 'Deadly Echo: Dr. Seelmann\'s Second Case (English)',
       en: 'Deadly Echo: Dr. Seelmann\'s Second Case'
@@ -294,7 +308,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print', 'audiobook'],
-    cover: 'deadly-echo.jpg',
+    cover: 'B0DFD4GVKM.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DFD4GVKM',
@@ -305,6 +319,7 @@ export const booksData = [
   
   {
     id: 'legacy-lodges-en',
+    asin: 'B0DDJVX6GQ',
     title: {
       de: 'The Legacy of the Lodges: Dr. Seelmann\'s Third Case (English)',
       en: 'The Legacy of the Lodges: Dr. Seelmann\'s Third Case'
@@ -316,7 +331,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print', 'audiobook'],
-    cover: 'placeholder-mystery.jpg',
+    cover: 'B0DDJVX6GQ.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DDJVX6GQ',
@@ -328,6 +343,7 @@ export const booksData = [
   // Science Fiction & Thriller
   {
     id: 'simulation-chronicles',
+    asin: 'B0DCTZF166',
     title: {
       de: 'The Simulation Chronicles',
       en: 'The Simulation Chronicles'
@@ -339,7 +355,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'simulation-chronicles.jpg',
+    cover: 'B0DCTZF166.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DCTZF166',
@@ -349,6 +365,7 @@ export const booksData = [
   
   {
     id: 'nanogenesis',
+    asin: 'B0DC28N8WZ',
     title: {
       de: 'Nanogenesis: The Rise of Superhumans',
       en: 'Nanogenesis: The Rise of Superhumans'
@@ -360,7 +377,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'placeholder-scifi.jpg',
+    cover: 'B0DC28N8WZ.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0DC28N8WZ',
@@ -370,6 +387,7 @@ export const booksData = [
   
   {
     id: 'key-enlightened',
+    asin: 'B0CW1JS3B5',
     title: {
       de: 'The Key of the Enlightened',
       en: 'The Key of the Enlightened'
@@ -381,7 +399,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'placeholder-thriller.jpg',
+    cover: 'B0CW1JS3B5.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0CW1JS3B5',
@@ -392,6 +410,7 @@ export const booksData = [
   // Leadership & Business
   {
     id: 'emotionale-intelligenz-leadership',
+    asin: 'B0D9J2X8D3',
     title: {
       de: 'Emotionale Intelligenz und Leadership: Wie Sie Ihre Stärken optimal nutzen',
       en: 'Emotional Intelligence and Leadership: How to Optimally Use Your Strengths'
@@ -403,7 +422,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'emotionale-intelligenz-leadership.jpg',
+    cover: 'B0D9J2X8D3.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0D9J2X8D3',
@@ -413,6 +432,7 @@ export const booksData = [
   
   {
     id: 'thought-leader',
+    asin: 'B0D9762V4T',
     title: {
       de: 'Thought Leader',
       en: 'Thought Leader'
@@ -424,7 +444,7 @@ export const booksData = [
     },
     year: 2024,
     formats: ['ebook', 'print'],
-    cover: 'placeholder-leadership.jpg',
+    cover: 'B0D9762V4T.jpg',
     shops: {
       books2read: 'https://books2read.com/Dirk-Werner-Author',
       amazon_de: 'https://amazon.de/dp/B0D9762V4T',
